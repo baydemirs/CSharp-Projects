@@ -121,9 +121,6 @@
   <data name="pipe-green - Kopya (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pipe-green - Kopya (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Flappy-Bird-Logo-Transparent-Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Flappy-Bird-Logo-Transparent-Background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="pipe-green" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pipe-green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
