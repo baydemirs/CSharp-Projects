@@ -85,9 +85,6 @@
     <None Include="Resources\base.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Flappy-Bird-Logo-Transparent-Background.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\redbird-upflap.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
